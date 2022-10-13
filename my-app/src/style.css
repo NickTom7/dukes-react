@@ -1,0 +1,27 @@
+body {
+  background: url("dukebackground.png") ;
+  background-size: 100%;
+  --bs-dark-rgb: #1B4F24;
+}
+
+#topMenu {
+  background-color: #017574;
+  color: white;
+}
+
+#bottom{
+  background-color: #017574;
+  color: white;
+}
+#bottomMenu {
+  background-color: #8E8579;
+  color: white;
+}
+
+a.nav-link{
+  color: white;
+}
+
+#OTND {
+  color: #F1A228;
+}
